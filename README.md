@@ -9,19 +9,19 @@ Le programme est divisé en deux parties :
 
 En cette partie on a l'insertion des polynômes, leurs affichages et défirent opérations sur un ou deux polynôme comme:
 
-Dérivée d'un polynôme
+  -Dérivée d'un polynôme
 
-Changement de signe 
+  -Changement de signe 
 
-Tracer le graphe d'un polynôme
+  -Tracer le graphe d'un polynôme
 
-Calculer la valeur d'un x donnée par un polynôme 
+  -Calculer la valeur d'un x donnée par un polynôme 
 
-Somme de deux polynômes 
+  -Somme de deux polynômes 
 
-Soustraction de deux polynômes
+  -Soustraction de deux polynômes
 
-Tracer les deux polynômes et leurs sommes dans la même reperd
+  -Tracer les deux polynômes et leurs sommes dans la même reperd
 
 
 #Partie 2 :
