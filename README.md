@@ -5,7 +5,7 @@ Ce code est générer les polynômes avec **un liste doublement chainée** en ut
 
 Le programme est divisé en deux parties :
 
-#Partie 1 :
+<u>#Partie 1 :</u>
 
 En cette partie on a l'insertion des polynômes, leurs affichages et défirent opérations sur un ou deux polynôme comme:
 
