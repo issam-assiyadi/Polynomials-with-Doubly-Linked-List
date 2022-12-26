@@ -1,4 +1,7 @@
-Ce code est générer les polynômes avec *un liste doublement chainée* en utilisant langage C.
+##DL : Les Polynômes
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Ce code est générer les polynômes avec **un liste doublement chainée** en utilisant langage C.
 
 Le programme est divisé en deux parties :
 
