@@ -5,7 +5,7 @@ Ce code est générer les polynômes avec **un liste doublement chainée** en ut
 
 Le programme est divisé en deux parties :
 
-<u>#Partie 1 :</u>
+#Partie 1 :
 
 En cette partie on a l'insertion des polynômes, leurs affichages et défirent opérations sur un ou deux polynôme comme:
 
@@ -27,5 +27,10 @@ En cette partie on a l'insertion des polynômes, leurs affichages et défirent o
 #Partie 2 :
 
 En fait un Calcul numérique d’une racine d’un polynôme en utilise la méthode de Newton et J. Raphson
+
+
+
+
+(Remarque : je n'ai pas créé le fichier *test.h* compte tenu de la date du depose)
 
 
