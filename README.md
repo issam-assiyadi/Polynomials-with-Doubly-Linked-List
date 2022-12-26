@@ -8,7 +8,7 @@ Le programme est divisé en deux parties :
 #Partie 1 :
 
 En cette partie on a l'insertion des polynômes, leurs affichages et défirent opérations sur un ou deux polynôme comme:
-Dérivée d'un polynôme
+Dérivée d'un polynôme\n
 Changement de signe 
 Tracer le graphe d'un polynôme
 Calculer la valeur d'un x donnée par un polynôme 
