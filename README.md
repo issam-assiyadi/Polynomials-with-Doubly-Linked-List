@@ -31,6 +31,4 @@ En fait un Calcul numérique d’une racine d’un polynôme en utilise la méth
 
 
 
-(Remarque : je n'ai pas créé le fichier *test.h* compte tenu de la date du depose)
-
 
